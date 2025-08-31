@@ -123,14 +123,8 @@ Run the notebook to load cleaned data into SQL.
 Open Power BI, connect to SQL Server, and create dashboards.
 
 Author
-
 👩‍💻 Veesha Fatima
 Data Analytics & AI Enthusiast
-
 ---
-
-👉 This file is **ready to upload directly as `README.md`** to your repo.  
-
-Do you also want me to **add screenshots of your Power BI dashboard** section (placeholders now) so your GitHub looks more complete?
 
 
